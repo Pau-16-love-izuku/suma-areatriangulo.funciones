@@ -1,0 +1,14 @@
++-------------------------+
+|     AreaTriangulo   |
++-------------------------+
+|-master            |
+|-label_base         |
+|-entry_base          |
+|-label_altura       |
+|-entry_altura       |
+|-boton_calcular      |
+|-resultado_label     |
++-------------------------+
+|+_init_(master)     |
+|+calcular_area()     |
++-------------------------+
