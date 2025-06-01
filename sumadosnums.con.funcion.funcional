@@ -1,0 +1,17 @@
+Algoritmo SumaDosNumsConFuncion_funcional
+    Definir num1, num2, resultado Como Entero
+	
+    Escribir "Ingresa el primer número:"
+    Leer num1
+	
+    Escribir "Ingresa el segundo número:"
+    Leer num2
+	
+    resultado <- Sumar(num1, num2)
+	
+    Escribir "La suma es: ", resultado
+FinAlgoritmo
+
+Funcion suma <- Sumar(a, b)
+    suma <- a + b
+FinFuncion
